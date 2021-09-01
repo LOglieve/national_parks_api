@@ -15,6 +15,7 @@ The currently has 3 endpoints,
   - all parks in the database
   - all parks in country depending on iso_a2 code
   - an autocomplete route
+
 returned fields include:
   - a unique id
   - location data 
