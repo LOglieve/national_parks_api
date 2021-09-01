@@ -1,0 +1,329 @@
+[
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 53.21,
+            "lng": -1.50
+        },
+        "annotations": {
+            "name": "Peak District",
+            "native_name": "Peak District",
+            "counties": ["Derbyshire", "Cheshire", "Greater Manchester", "Staffordshire", "South Yorkshire", "West Yorkshire"],
+            "area_sqkm": 1438,
+            "area_sqmi": 555.2,
+            "formed": "1951-04-17",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+        }
+    },
+
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 54.30,
+            "lng": -3.10
+        },
+        "annotations": {
+            "name": "Lake District",
+            "native_name": "Lake District",
+            "counties": ["Cumbria"],
+            "area_sqkm": 2292,
+            "area_sqmi": 884.9,
+            "formed": "1951-05-09",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+    
+        }
+    },
+
+    {
+        "location": {
+            "country": "Wales",
+            "iso_a2": "GB",
+            "lat": 52.54,
+            "lng": -3.51
+        },
+        "annotations": {
+            "name": "Snowdonia",
+            "native_name": "Eryri",
+            "counties": ["Gwynedd", "Conwy"],
+            "area_sqkm": 2142,
+            "area_sqmi": 827.0,
+            "formed": "1951-10-18",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 50.34,
+            "lng": -4.0
+        },
+        "annotations": {
+            "name": "Dartmoor",
+            "native_name": "Dartmoor",
+            "counties": ["Devon"],
+            "area_sqkm": 956,
+            "area_sqmi": 369.1,
+            "formed": "1951-10-30",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "Wales",
+            "iso_a2": "GB",
+            "lat": 51.50,
+            "lng": -5.05
+        },
+        "annotations": {
+            "name": "Pembrokeshire Coast",
+            "native_name": "Arfordir Penfro",
+            "counties": ["Pembrokeshire"],
+            "area_sqkm": 620,
+            "area_sqmi": 239.4,
+            "formed": "1952-02-29",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 54.23,
+            "lng": -0.45
+        },
+        "annotations": {
+            "name": "North York Moors",
+            "native_name": "North York Moors",
+            "counties": ["North Yorkshire"],
+            "area_sqkm": 1436,
+            "area_sqmi": 554.4,
+            "formed": "1952-11-29",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 54.16,
+            "lng": -2.05
+        },
+        "annotations": {
+            "name": "Yorkshire Dales",
+            "native_name": "Yorkshire Dales",
+            "counties": ["North Yorkshire", "Cumbria", "Lancashire"],
+            "area_sqkm": 2179,
+            "area_sqmi": 841.3,
+            "formed": "1954-11-16",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 51.06,
+            "lng": -3.36
+        },
+        "annotations": {
+            "name": "Exmoor",
+            "native_name": "Exmoor",
+            "counties": ["Somerset", "Devon"],
+            "area_sqkm": 693,
+            "area_sqmi": 267.6,
+            "formed": "1954-10-19",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 55.19,
+            "lng":-2.13
+        },
+        "annotations": {
+            "name": "Northumberland",
+            "native_name": "Northumberland",
+            "counties": ["Northumberland"],
+            "area_sqkm": 1049,
+            "area_sqmi": 405.0,
+            "formed": "1956-04-06",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "Wales",
+            "iso_a2": "GB",
+            "lat": 51.53,
+            "lng": -3.26
+        },
+        "annotations": {
+            "name": "Brecon Beacons",
+            "native_name": "Bannau Brycheiniog",
+            "counties": ["Blaenau Gwent", "Carmarthenshire", "Merthyr Tydfil", "Powys", "Rhondda Cynon Taf", "Monmouthshire", "Torfaen, Caerphilly"],
+            "area_sqkm": 1351,
+            "area_sqmi": 521.6,
+            "formed": "1957-04-17",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 52.62,
+            "lng": 1.63
+        },
+        "annotations": {
+            "name": "The Broads",
+            "native_name": "The Broads",
+            "counties": ["Norfolk", "Suffolk"],
+            "area_sqkm": 30003,
+            "area_sqmi": 117.0,
+            "formed": "1989-04-01",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "Scotland",
+            "iso_a2": "GB",
+            "lat": 56.15,
+            "lng": -4.37
+        },
+        "annotations": {
+            "name": "Loch Lomond and The Trossachs",
+            "native_name": "Loch Lomond and The Trossachs",
+            "counties": ["West Dunbartonshire", "Argyll and Bute", "Perth and Kinross", "Stirling"],
+            "area_sqkm": 1865,
+            "area_sqmi": 720.1,
+            "formed": "2002-04-24",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "Scotland",
+            "iso_a2": "GB",
+            "lat": 57.50,
+            "lng": -3.40
+        },
+        "annotations": {
+            "name": "Cairngorms",
+            "native_name": "Cairngorms",
+            "counties": ["Highland", "Moray", "Aberdeenshire", "Angus", "Perth and Kinross"],
+            "area_sqkm": 4528,
+            "area_sqmi": 1748.3,
+            "formed": "2003-01-06",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 50.52,
+            "lng": -1.34
+        },
+        "annotations": {
+            "name": "New Forest",
+            "native_name": "New Forest",
+            "counties": ["Hampshire", "Wiltshire"],
+            "area_sqkm": 580,
+            "area_sqmi": 223.9,
+            "formed": "2005-03-01",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "England",
+            "iso_a2": "GB",
+            "lat": 50.91,
+            "lng": -0.37
+        },
+        "annotations": {
+            "name": "South Downs",
+            "native_name": "South Downs",
+            "counties": ["East Sussex", "Hampshire", "West Sussex"],
+            "area_sqkm": 1641,
+            "area_sqmi": 633.6,
+            "formed": "2009-11-12",
+            "sources": ["https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "ireland",
+            "iso_a2": "ie",
+            "lat": 53.54,
+            "lng": -9.88
+        },
+        "annotations": {
+            "name": "Connemara",
+            "native_name": "Conamara",
+            "counties": ["County Galway"],
+            "area_sqkm": 20,
+            "area_sqmi": 7.7,
+            "formed": "1980",
+            "sources": ["https://en.wikipedia.org/wiki/List_of_national_parks_of_the_Republic_of_Ireland"]
+
+        }
+    }
+    ,
+    {
+        "location": {
+            "country": "ireland",
+            "iso_a2": "ie",
+            "lat": 55.03,
+            "lng": -7.97
+        },
+        "annotations": {
+            "name": "Glenveagh",
+            "native_name": "Gleann Bheatha",
+            "counties": ["County Donegal"],
+            "area_sqkm": 170,
+            "area_sqmi": 66,
+            "formed": "1984",
+            "sources": ["https://en.wikipedia.org/wiki/List_of_national_parks_of_the_Republic_of_Ireland"]
+
+        }
+    },
+    {
+        "location": {
+            "country": "ireland",
+            "iso_a2": "ie",
+            "lat": 55.03,
+            "lng": -7.97
+        },
+        "annotations": {
+            "name": "Killarney",
+            "native_name": "Cill Airne",
+            "counties": ["County Kerry"],
+            "area_sqkm": 105,
+            "area_sqmi": 41,
+            "formed": "1932",
+            "sources": ["https://en.wikipedia.org/wiki/List_of_national_parks_of_the_Republic_of_Ireland"]
+
+        }
+    }
+    
+]
