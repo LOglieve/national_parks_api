@@ -31,3 +31,12 @@ returned fields include:
     - area in m^2
     - when the park was officially formed
     - sources of the data
+
+## Supported Countries
+- United Kingdom / GB
+- Ireland / IE
+- France / FR
+- New Zealand / NZ
+
+
+HEROKU LINK - https://nationalparks-api.herokuapp.com/
